@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @veerendra-nath
-- 👀 I’m interested in Peoplw who dare to change the view
-- 🌱 I’m currently learning people
+- 👀 I’m interested in People who dare to change the view
 - 💞️ I’m looking to collaborate on Energy Solutions 
 - 📫 How to reach me ...
 
